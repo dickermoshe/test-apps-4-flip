@@ -1,0 +1,11 @@
+branding:
+  title: Apps4Flip
+  logo: null
+  
+  edit:
+    repo: "https://github.com/dickermoshe/test-apps-4-flip/edit"
+    label: Edit on GitHub
+  footer:
+    copyright: "© Copyright . [Apps4Flip.com](https://Apps4Flip.com/) All rights reserved."
+  url: https://dickermoshe.github.io/test-apps-4-flip/
+  
